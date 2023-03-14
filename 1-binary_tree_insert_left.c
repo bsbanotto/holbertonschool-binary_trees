@@ -10,7 +10,7 @@
  * its place, and the old left-child must be set as the left-child of the new
  * node
  *
- * Returns: pointer to the newly created node, or NULL on failure or if parent
+ * Return: pointer to the newly created node, or NULL on failure or if parent
  * is NULL
  */
 
