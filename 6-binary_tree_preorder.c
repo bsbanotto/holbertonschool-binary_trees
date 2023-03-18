@@ -3,7 +3,7 @@
 /**
  * binary_tree_preorder - Traverses a binary tree using pre-order traversal
  * @tree: pointer to root node of tree to be traversed
- * @func: pointer to a function to call for each node
+ * @func: pointer to a function to print the value at each node
  *
  * Description: If tree or func is NULL, do nothing
  *
