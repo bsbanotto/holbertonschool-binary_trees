@@ -29,7 +29,10 @@ int main(void)
 
 	tree = bst_remove(tree, 68);
 	printf("Removed 68...\n");
+	printf("\t\tI made it this far\n");
 	binary_tree_print(tree);
+	printf("\tOr is this where I made it\n");
 	binary_tree_delete(tree);
+	printf("Last check in here\n");
 	return (0);
 }
