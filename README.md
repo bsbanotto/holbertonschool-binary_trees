@@ -1,4 +1,4 @@
-This is a README for 0x07. Binary Trees 0
+# This is a README for 0x07. Binary Trees 0
 
 There are 19 mandatory tasks in this project as follows
 
@@ -152,7 +152,7 @@ Write a function that finds the uncle of a node
 -   If  `node`  is  `NULL`, return  `NULL`
 -   If  `node`  has no uncle, return  `NULL`
 
-This section is a README for 0x08. Binary Trees 1
+# This section is a README for 0x08. Binary Trees 1
 
 There are 6 mandatory tasks in this project as follows
 ## Task 0. Is BST
