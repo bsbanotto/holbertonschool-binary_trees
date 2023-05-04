@@ -216,4 +216,4 @@ Write a function that removes a node from a Binary Search Tree
 
 -   Inserting the value  `n`
 -   Removing the node with the value  `n`
--   Searching for a node in a BST of size nig O #BST
+-   Searching for a node in a BST of size `n`
